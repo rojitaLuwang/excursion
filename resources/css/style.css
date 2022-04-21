@@ -2,7 +2,7 @@ body {
     background-color: black;
     text-align: center;
     font-size: 16px;
-    margin: 1.5em;
+    margin: auto;
     color: white;
     font-family: Verdana;
 }
@@ -11,7 +11,7 @@ h1 {
     font-weight: normal;
     font-size: 3.125em;
     margin: auto;
-    padding: 20px;
+    padding: .6em;
 }
 
 h2 {
@@ -33,6 +33,13 @@ img {
     margin: auto;
 }
 
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 1.45em;
+}
+
 .with_padding {
     padding: .5em;
+    margin: .1em;
 }
