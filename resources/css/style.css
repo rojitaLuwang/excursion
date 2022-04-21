@@ -17,3 +17,7 @@ a {
     color: aquamarine;
     font: 1em;
 }
+
+.with_padding {
+    padding: 15px;
+}
